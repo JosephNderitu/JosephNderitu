@@ -9,7 +9,7 @@ Currently pursuing a **BSc. in Computer Technology at JKUAT**, I combine academi
 ## 💼 What I Do
 
 - **Full-Stack Web Development**  
-  End-to-end development using React, Node.js, PHP (Laravel), Python, MySQL, and Firebase.
+  End-to-end development using React, Node.js, Python(Django), MySQL, and Firebase.
 
 - **Mobile App Development**  
   Building responsive, high-performance cross-platform apps with Flutter and Android Studio.
