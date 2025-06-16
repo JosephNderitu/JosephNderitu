@@ -9,22 +9,32 @@ Currently pursuing a **BSc. in Computer Technology at JKUAT**, I combine academi
 ## 💼 What I Do
 
 - **Full-Stack Web Development**  
-  End-to-end development using React, Node.js, Python(Django), MySQL, and Firebase.
+  End-to-end development using React, Node.js, Python (Django), PHP (Laravel), MySQL, and Firebase.
 
 - **Mobile App Development**  
-  Building responsive, high-performance cross-platform apps with Flutter and Android Studio.
+  Proficient in building responsive, high-performance cross-platform apps using **Flutter**, **Dart**, and **Android Studio**.
 
 - **Game & Interactive Systems**  
-  Designing engaging game logic and educational platforms using Unity and Godot.
+  Designing educational and logic-based game platforms using **Unity** and **Godot**.
 
 - **Smart & IoT Systems**  
-  Innovating with microcontrollers, sensors, and cloud integration for real-world automation.
+  Innovating with **microcontrollers**, **sensors**, and **cloud integration** for automation and smart services.
 
 - **UI/UX & Digital Design**  
-  Clean, intuitive interfaces using Figma, Adobe XD, and Illustrator.
+  Creating clean, intuitive interfaces and digital assets using **Figma**, **Adobe XD**, and **Illustrator**.
 
 - **SEO & Digital Optimization**  
-  Enhancing brand visibility, speed, and web experience for businesses and creators.
+  Helping businesses enhance visibility, accessibility, and performance across platforms.
+
+---
+
+## 🧠 Programming Languages
+
+- **Proficient in**: Dart (Flutter), Python, JavaScript, PHP, HTML/CSS  
+- **Also experienced with**:  
+  - **C & C++** – Core programming, data structures, and embedded systems  
+  - **Java** – Android app logic, object-oriented systems  
+  - **Visual Basic** – Legacy systems, Windows application scripting
 
 ---
 
@@ -63,8 +73,8 @@ A personal portfolio showcasing my latest projects, skills, and services. Built 
 
 - 🔭 I’m always building: hackathons, open-source, and passion projects fuel my growth.
 - 🛠️ I’m integrating OAuth, M-Pesa APIs, and SMS workflows into cross-platform tools.
-- 📢 I love helping founders and small businesses digitize and scale.
-- 📖 Lifelong learner, currently exploring AI integrations and DevOps automation.
+- 📢 I enjoy helping founders and small businesses digitize and scale.
+- 📖 Lifelong learner, currently exploring AI integrations, cloud systems, and DevOps automation.
 
 ---
 
