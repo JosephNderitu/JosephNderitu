@@ -52,6 +52,9 @@ A logistics and courier system offering real-time shipment tracking, booking wor
 ### 📚 [JHUB Repository](https://repository.jhubafrica.com)  
 A digital archive and collaborative academic resource portal built for JHUB Africa’s community of learners and researchers.
 
+### 🌐 [JMG Solutions Web](https://josephnderitu.github.io/JMG-Solutions-Web/)  
+A professional online platform showcasing JMG Solutions’ electronic innovations, services, and tech expertise.
+
 ### 🌐 [My Portfolio](http://nderitu.pythonanywhere.com)  
 A personal portfolio showcasing my latest projects, skills, and services. Built for performance and accessibility.
 
