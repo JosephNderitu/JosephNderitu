@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joseph-gikuru48574926b/">
+  <a href="https://www.linkedin.com/in/joseph-gikuru-48574926b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="http://nderitu.pythonanywhere.com">
@@ -17,8 +17,11 @@
   <a href="https://github.com/JosephNderitu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/devgikuru">
+  <a href="https://x.com/GikuruJoseph01">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
+  </a>
+  <a href="https://www.facebook.com/Gikurujoseph">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
@@ -162,16 +165,26 @@ Professional web presence for JMG Solutions showcasing electronic innovations an
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosephNderitu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephNderitu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosephNderitu&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JosephNderitu&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosephNderitu&theme=tokyonight" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JosephNderitu&theme=tokyonight" height="160" alt="Repos Per Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JosephNderitu&theme=tokyonight" height="160" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JosephNderitu&theme=tokyonight" height="160" alt="Stats"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JosephNderitu&theme=tokyonight&utcOffset=3" height="160" alt="Productive Time (EAT)"/>
 </p>
 
 ---
@@ -198,4 +211,6 @@ I am open to **freelance engagements**, **remote engineering roles**, **product 
 - **Email:** gikurujoseph53@gmail.com
 - **Phone / WhatsApp:** +254 715 369835
 - **Portfolio:** [nderitu.pythonanywhere.com](http://nderitu.pythonanywhere.com)
-- **LinkedIn:** [joseph-gikuru48574926b](https://www.linkedin.com/in/joseph-gikuru48574926b/)
+- **LinkedIn:** [joseph-gikuru-48574926b](https://www.linkedin.com/in/joseph-gikuru-48574926b/)
+- **X:** [@GikuruJoseph01](https://x.com/GikuruJoseph01)
+- **Facebook:** [Gikurujoseph](https://www.facebook.com/Gikurujoseph)
