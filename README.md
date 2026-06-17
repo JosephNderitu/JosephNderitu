@@ -90,6 +90,7 @@ I hold a **B.S. in Computer Technology** (Second Class Honors, Upper Division) f
 
 ### [Campus Lost and Found System](https://lostandfoundcampusapp.pythonanywhere.com)
 * Improved campus item recovery rates by 35% by building a real-time Django platform enabling over 500 students to report, track, and match lost items through an automated notification system.
+* repo link - https://github.com/JosephNderitu/CampusLost-FoundWeb
 
 ---
 
