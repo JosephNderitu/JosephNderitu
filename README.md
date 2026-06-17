@@ -76,6 +76,7 @@ I hold a **B.S. in Computer Technology** (Second Class Honors, Upper Division) f
 * Engineered a full-stack geospatial logistics platform utilizing Django, GeoDjango, and OSRM routing mechanisms for precise distance calculations and automated ETAs across North American logistics corridors.
 * Built containerized application structures using Docker and automated stable delivery setups via GitHub Actions CI/CD pipelines.
 * Processed transactions securely by integrating global payment infrastructures including Stripe and PayPal processing layers.
+* repo link - https://github.com/JosephNderitu/RVC-PYTHONANYWHERE
 
 ### [Meet Sync Pro (Mobile Scheduling System)](https://github.com/JosephNderitu)
 * Developed a cross-platform scheduling application using Flutter and a hybrid Django/Firebase backend system incorporating automated multi-time zone alignment algorithms.
@@ -85,6 +86,7 @@ I hold a **B.S. in Computer Technology** (Second Class Honors, Upper Division) f
 ### [J&N Collection Store](https://jandncollection.pythonanywhere.com)
 * Built a production-grade e-commerce application integrating M-Pesa Daraja 2.0 and PayPal APIs, supporting both local mobile money and international card transactions.
 * Reduced overall order processing times by 50% through the development of an integrated POS system connecting offline and online transactions into a centralized backend management dashboard.
+* repo link - https://github.com/JosephNderitu/J-N-Collections
 
 ### [Campus Lost and Found System](https://lostandfoundcampusapp.pythonanywhere.com)
 * Improved campus item recovery rates by 35% by building a real-time Django platform enabling over 500 students to report, track, and match lost items through an automated notification system.
