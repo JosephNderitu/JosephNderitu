@@ -72,6 +72,12 @@ I hold a **B.S. in Computer Technology** (Second Class Honors, Upper Division) f
 
 ## Key Production Architectures
 
+### [CRPR — Computing Research Projects Repository](https://research-hub-x.vercel.app)
+* Architected and deployed a full-stack academic research platform for SCIT JKUAT, using Django, PostgreSQL (Neon), and Cloudflare R2 object storage on a serverless Vercel deployment.
+* Implemented role-based access control, OAuth authentication (GitHub, LinkedIn), and PayPal-integrated subscription management across a centralized researcher and project cataloguing system.
+* Migrated media handling from local filesystem storage to Cloudflare R2, resolving the constraints of a read-only serverless filesystem while eliminating storage costs entirely.
+* repo link - https://github.com/JosephNderitu/ResearchHubX
+
 ### [Rift Valley Carriers (Logistics Platform)](https://riftvalleycarrier.pythonanywhere.com)
 * Engineered a full-stack geospatial logistics platform utilizing Django, GeoDjango, and OSRM routing mechanisms for precise distance calculations and automated ETAs across North American logistics corridors.
 * Built containerized application structures using Docker and automated stable delivery setups via GitHub Actions CI/CD pipelines.
