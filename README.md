@@ -84,10 +84,11 @@ I hold a **B.S. in Computer Technology** (Second Class Honors, Upper Division) f
 * Processed transactions securely by integrating global payment infrastructures including Stripe and PayPal processing layers.
 * repo link - https://github.com/JosephNderitu/RVC-PYTHONANYWHERE
 
-### [Meet Sync Pro (Mobile Scheduling System)](https://github.com/JosephNderitu)
+### [Meet Sync Pro (Mobile Scheduling System)](https://github.com/JosephNderitu/CALENDRY-APP-FLUTTER)
 * Developed a cross-platform scheduling application using Flutter and a hybrid Django/Firebase backend system incorporating automated multi-time zone alignment algorithms.
 * Designed real-time conflict detection mechanics and smart booking rules, cutting manual booking coordination down to under 2 minutes per session.
 * *Note: Core source repositories are private due to proprietary configurations; live/documentation architecture updates are cataloged via profile projects.*
+* apk link - https://github.com/JosephNderitu/CALENDRY-APP-FLUTTER/releases/download/v1.0.0/base.apk
 
 ### [J&N Collection Store](https://jandncollection.pythonanywhere.com)
 * Built a production-grade e-commerce application integrating M-Pesa Daraja 2.0 and PayPal APIs, supporting both local mobile money and international card transactions.
