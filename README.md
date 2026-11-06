@@ -19,15 +19,6 @@ I hold a **B.S. in Computer Technology** (Second Class Honors, Upper Division) f
   <img src="https://streak-stats.demolab.com?user=JosephNderitu&theme=dark&hide_border=false&border_radius=8&background=001826&ring=C792EA&fire=C792EA&currStreakNum=FFE98A&currStreakLabel=FFE98A&sideNums=C792EA&sideLabels=C792EA&dates=9AE6D8&stroke=E4E4E4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak stats">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosephNderitu&show_icons=true&theme=dark&hide_border=true&bg_color=001826&title_color=C792EA&icon_color=C792EA&text_color=9AE6D8&count_private=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephNderitu&layout=compact&theme=dark&hide_border=true&bg_color=001826&title_color=C792EA&text_color=9AE6D8" alt="Top languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosephNderitu&theme=react-dark&bg_color=001826&color=9AE6D8&line=C792EA&point=FFE98A&area=true&hide_border=true" alt="Contribution graph">
-</p>
-
 ---
 
 ## Technical Toolkit
