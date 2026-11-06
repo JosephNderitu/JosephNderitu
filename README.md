@@ -20,17 +20,12 @@ I hold a **B.S. in Computer Technology** (Second Class Honors, Upper Division) f
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/C792EA/JosephNderitu" alt="Contribution chart" width="95%">
+  <img src="https://github-readme-stats.vercel.app/api?username=JosephNderitu&show_icons=true&theme=dark&hide_border=true&bg_color=001826&title_color=C792EA&icon_color=C792EA&text_color=9AE6D8&count_private=true" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephNderitu&layout=compact&theme=dark&hide_border=true&bg_color=001826&title_color=C792EA&text_color=9AE6D8" alt="Top languages" height="165">
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats" height="165">
-  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top languages by commits" height="165">
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Profile details" height="165">
-  <img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Productive time" height="165">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosephNderitu&theme=react-dark&bg_color=001826&color=9AE6D8&line=C792EA&point=FFE98A&area=true&hide_border=true" alt="Contribution graph">
 </p>
 
 ---
